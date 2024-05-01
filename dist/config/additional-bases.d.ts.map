@@ -1,0 +1,1 @@
+{"version":3,"file":"additional-bases.d.ts","sourceRoot":"","sources":["../../src/config/additional-bases.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,EAAE,MAAM,sBAAsB,CAAA;AA4D5C,eAAO,MAAM,gBAAgB,EAAE;IAC7B,CAAC,OAAO,EAAE,MAAM,GAAG;QAAE,CAAC,YAAY,EAAE,MAAM,GAAG,KAAK,EAAE,CAAA;KAAE,CAAA;CAgGvD,CAAA"}

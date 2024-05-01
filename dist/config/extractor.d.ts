@@ -1,0 +1,4 @@
+export declare const EXTRACTOR_SUPPORTED_CHAIN_IDS: readonly [42161, 42170, 43114, 8453, 288, 56288, 56, 199, 42220, 1116, 1, 250, 314, 122, 100, 11235, 1666600000, 2222, 59144, 1088, 1284, 1285, 10, 137, 1101, 534352, 40, 108, 7000, 25, 81457];
+export type ExtractorSupportedChainId = (typeof EXTRACTOR_SUPPORTED_CHAIN_IDS)[number];
+export declare const isExtractorSupportedChainId: (chainId: number) => chainId is 1 | 137 | 250 | 100 | 56 | 42161 | 42170 | 43114 | 1666600000 | 42220 | 1285 | 122 | 40 | 1284 | 10 | 2222 | 1088 | 288 | 56288 | 199 | 1101 | 108 | 314 | 11235 | 1116 | 59144 | 8453 | 534352 | 7000 | 25 | 81457;
+//# sourceMappingURL=extractor.d.ts.map

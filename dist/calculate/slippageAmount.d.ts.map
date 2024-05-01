@@ -1,0 +1,1 @@
+{"version":3,"file":"slippageAmount.d.ts","sourceRoot":"","sources":["../../src/calculate/slippageAmount.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,sBAAsB,CAAA;AACvD,OAAO,EAAY,OAAO,EAAE,MAAM,kBAAkB,CAAA;AAIpD,wBAAgB,cAAc,CAC5B,KAAK,EAAE,MAAM,CAAC,QAAQ,CAAC,EACvB,QAAQ,EAAE,OAAO,GAChB,CAAC,MAAM,EAAE,MAAM,CAAC,CAOlB"}

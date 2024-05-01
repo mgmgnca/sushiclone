@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-bases.js","sourceRoot":"","sources":["../../src/config/custom-bases.ts"],"names":[],"mappings":";;;AAAA,gDAA2C;AAC3C,mDAAwE;AAExE;;;GAGG;AACU,QAAA,YAAY,GAErB;IACF,CAAC,kBAAO,CAAC,QAAQ,CAAC,EAAE;QAClB,CAAC,uBAAY,CAAC,kBAAO,CAAC,QAAQ,CAAC,CAAC,EAAE;YAChC,cAAG,CAAC,kBAAO,CAAC,QAAQ,CAAC;YACrB,kBAAO,CAAC,kBAAO,CAAC,QAAQ,CAAC;SAC1B;KACF;CACF,CAAA"}

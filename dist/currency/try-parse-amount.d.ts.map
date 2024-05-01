@@ -1,0 +1,1 @@
+{"version":3,"file":"try-parse-amount.d.ts","sourceRoot":"","sources":["../../src/currency/try-parse-amount.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,MAAM,EAAE,MAAM,aAAa,CAAA;AACpC,OAAO,EAAE,KAAK,IAAI,EAAE,MAAM,WAAW,CAAA;AAGrC,wBAAgB,cAAc,CAAC,CAAC,SAAS,IAAI,EAC3C,KAAK,CAAC,EAAE,MAAM,EACd,QAAQ,CAAC,EAAE,CAAC,GACX,MAAM,CAAC,CAAC,CAAC,GAAG,SAAS,CAevB"}

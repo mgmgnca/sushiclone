@@ -1,0 +1,1 @@
+{"version":3,"file":"Multicall.d.ts","sourceRoot":"","sources":["../../../../src/pool/sushiswap-v3/entities/Multicall.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,oBAAoB,CAAA;AAG9C,8BAAsB,SAAS;IAC7B,OAAc,SAAS,EAAE,SAAS,CAAgC;IAElE;;OAEG;IACH,OAAO;WAEO,eAAe,CAAC,SAAS,EAAE,MAAM,GAAG,MAAM,EAAE,GAAG,MAAM;CASpE"}

@@ -1,0 +1,26 @@
+import { ChainId } from '../chain/index.js';
+export declare const ROUTE_PROCESSOR_SUPPORTED_CHAIN_IDS: readonly [42161, 42170, 43114, 288, 43288, 56288, 56, 199, 42220, 1, 250, 122, 100, 1666600000, 2222, 1088, 1284, 1285, 10, 137];
+export type RouteProcessorChainId = (typeof ROUTE_PROCESSOR_SUPPORTED_CHAIN_IDS)[number];
+export declare const ROUTE_PROCESSOR_ADDRESS: Record<RouteProcessorChainId, `0x${string}`>;
+export declare const isRouteProcessorChainId: (chainId: ChainId) => chainId is 1 | 137 | 250 | 100 | 56 | 42161 | 42170 | 43114 | 1666600000 | 42220 | 1285 | 122 | 1284 | 10 | 2222 | 1088 | 288 | 43288 | 56288 | 199;
+export declare const ROUTE_PROCESSOR_2_SUPPORTED_CHAIN_IDS: readonly [42161, 42170, 43114, 288, 56, 1, 250, 122, 100, 1284, 1285, 10, 137, 1101];
+export type RouteProcessor2ChainId = (typeof ROUTE_PROCESSOR_2_SUPPORTED_CHAIN_IDS)[number];
+export declare const ROUTE_PROCESSOR_2_ADDRESS: Record<RouteProcessor2ChainId, `0x${string}`>;
+export declare const isRouteProcessor2ChainId: (chainId: ChainId) => chainId is 1 | 137 | 250 | 100 | 56 | 42161 | 42170 | 43114 | 1285 | 122 | 1284 | 10 | 288 | 1101;
+export declare const ROUTE_PROCESSOR_3_SUPPORTED_CHAIN_IDS: readonly [42161, 42170, 43114, 8453, 288, 43288, 56288, 56, 199, 42220, 1116, 1, 250, 122, 100, 11235, 1666600000, 128, 2222, 1088, 1284, 1285, 66, 10, 11297108109, 137, 1101, 40, 108, 59144];
+export type RouteProcessor3ChainId = (typeof ROUTE_PROCESSOR_3_SUPPORTED_CHAIN_IDS)[number];
+export declare const ROUTE_PROCESSOR_3_ADDRESS: Record<RouteProcessor3ChainId, `0x${string}`>;
+export declare const isRouteProcessor3ChainId: (chainId: ChainId) => chainId is 1 | 137 | 250 | 100 | 56 | 42161 | 42170 | 43114 | 128 | 1666600000 | 66 | 42220 | 11297108109 | 1285 | 122 | 40 | 1284 | 10 | 2222 | 1088 | 288 | 43288 | 56288 | 199 | 1101 | 108 | 11235 | 1116 | 59144 | 8453;
+export declare const ROUTE_PROCESSOR_3_1_SUPPORTED_CHAIN_IDS: readonly [42161, 8453, 1, 137];
+export type RouteProcessor3_1ChainId = (typeof ROUTE_PROCESSOR_3_1_SUPPORTED_CHAIN_IDS)[number];
+export declare const ROUTE_PROCESSOR_3_1_ADDRESS: Record<RouteProcessor3_1ChainId, `0x${string}`>;
+export declare const isRouteProcessor3_1ChainId: (chainId: ChainId) => chainId is 1 | 137 | 42161 | 8453;
+export declare const ROUTE_PROCESSOR_3_2_SUPPORTED_CHAIN_IDS: readonly [42161, 42170, 43114, 8453, 56, 42220, 1, 250, 100, 11235, 59144, 10, 137, 1101, 534352, 314, 7000];
+export type RouteProcessor3_2ChainId = (typeof ROUTE_PROCESSOR_3_2_SUPPORTED_CHAIN_IDS)[number];
+export declare const ROUTE_PROCESSOR_3_2_ADDRESS: Record<RouteProcessor3_2ChainId, `0x${string}`>;
+export declare const isRouteProcessor3_2ChainId: (chainId: ChainId) => chainId is 1 | 137 | 250 | 100 | 56 | 42161 | 42170 | 43114 | 42220 | 10 | 1101 | 314 | 11235 | 59144 | 8453 | 534352 | 7000;
+export declare const ROUTE_PROCESSOR_4_SUPPORTED_CHAIN_IDS: readonly [1, 42161, 10, 8453, 137, 43114, 56, 59144, 42170, 100, 250, 199, 42220, 314, 11235, 2222, 1088, 108, 534352, 7000, 1284, 1285, 1101, 122, 1666600000, 40, 288, 56288, 1116, 25, 81457];
+export type RouteProcessor4ChainId = (typeof ROUTE_PROCESSOR_4_SUPPORTED_CHAIN_IDS)[number];
+export declare const ROUTE_PROCESSOR_4_ADDRESS: Record<RouteProcessor4ChainId, `0x${string}`>;
+export declare const isRouteProcessor4ChainId: (chainId: ChainId) => chainId is 1 | 137 | 250 | 100 | 56 | 42161 | 42170 | 43114 | 1666600000 | 42220 | 1285 | 122 | 40 | 1284 | 10 | 2222 | 1088 | 288 | 56288 | 199 | 1101 | 108 | 314 | 11235 | 1116 | 59144 | 8453 | 534352 | 7000 | 25 | 81457;
+//# sourceMappingURL=route-processor.d.ts.map
